@@ -102,9 +102,9 @@ cl.localpatronsaint1.greatcompline = ""
 cl.localchurch.title = ""
 
 cl.Apolytikion1.title = ""
-cl.Apolytikion1.mode = me.m10.d26_en_redirects_goarch.meVE.Apolytikion1.mode
-cl.Apolytikion1.melody = me.m10.d26_en_redirects_goarch.meVE.Apolytikion1.melody
-cl.Apolytikion1.text = me.m10.d26_en_redirects_goarch.meVE.Apolytikion1.text
+cl.Apolytikion1.mode = 
+cl.Apolytikion1.melody = 
+cl.Apolytikion1.text = 
 
 cl.conVE.SticBoth.churchname.text = ""
 cl.consecration.name = ""
