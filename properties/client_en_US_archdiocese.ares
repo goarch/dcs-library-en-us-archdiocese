@@ -77,7 +77,6 @@ cl.relics.saint3.Apolytikion.mode =
 cl.relics.saint3.Apolytikion.melody = ""
 cl.relics.saint3.Apolytikion.text = 
 
-
 cl.localpatronsaint1.supplication = ""
 cl.localpatronsaint1.dismissal = ""
 cl.localpatronsaint1.greatcompline = ""

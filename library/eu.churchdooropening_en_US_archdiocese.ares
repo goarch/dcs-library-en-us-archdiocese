@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = eu.churchdooropening_en_US_archdiocese
 
-euCDO.R102 = "The Archbishop takes the holy cross and immerses it in the water three times, as he sings the following hymn:"
-euCDO.R105 = "The Archbishop blesses the people with holy water while chanting:"
-euCDO.R106 = "Then the Archbishop stands before the church doors and exclaims:"
-euCDO.R109 = "The doors are opened, and everyone enters singing the hymns below. During the singing, the Archbishop blesses the new church building with holy water."
+euCDO.R102.rubric = "The Archbishop takes the holy cross and immerses it in the water three times, as he sings the following hymn:"
+euCDO.R105.rubric = "The Archbishop blesses the people with holy water while chanting:"
+euCDO.R106.rubric = "Then the Archbishop stands before the church doors and exclaims:"
+euCDO.R109.rubric = "The doors are opened, and everyone enters singing the hymns below. During the singing, the Archbishop blesses the new church building with holy water."

@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = eu.consecrationliturgy_en_US_archdiocese
 
-euMA.R001 = "The Archbishop says the prayers of Patriarch Callistus."
+euMA.R001.rubric = "The Archbishop says the prayers of Patriarch Callistus."
 
 euCON.Key4000.title = "CONSECRATION LITURGY"
 euCON.Key4100.title = "CONSECRATION"

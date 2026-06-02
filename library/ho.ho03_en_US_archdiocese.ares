@@ -1,3 +1,4 @@
 A_Resource_Whose_Name = ho.ho03_en_US_archdiocese
 
-R_Lauds_Hierarchical = "The Archbishop descends from the throne and recites the preparatory prayers for the Liturgy, as the Choirs sing:"
+R21a.rubric = "The Archbishop descends from the throne and recites the preparatory prayers for the Liturgy, as the Choirs sing:"
+R21b.rubric = "The Archbishop takes “kairon” in preparation for the Divine Liturgy, as the right choir slowly sings “Ton Despotin…” When he is finished, the hierarch blesses the people with the candles, as the left choir sings “Eis polla eti, despota,” and he enters the altar. Then the choirs resume singing Lauds."
