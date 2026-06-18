@@ -42,6 +42,7 @@ cl.bishop2.fimi.text = ""
 /*
 cl.localpatronsaint1.supplication = "the holy and glorious Great-martyr George the Trophy-bearer,"
 cl.localpatronsaint1.dismissal = "the holy and glorious Great-martyr George the Trophy-bearer,"
+cl.localpatronsaint1.commemoration = "the holy and glorious Great-martyr George the Trophy-bearer,"
 cl.localpatronsaint1.greatcompline = ""
 
 cl.localchurch.title = "For St. George."
@@ -79,6 +80,7 @@ cl.relics.saint3.Apolytikion.text =
 
 cl.localpatronsaint1.supplication = ""
 cl.localpatronsaint1.dismissal = ""
+cl.localpatronsaint1.commemoration = ""
 cl.localpatronsaint1.greatcompline = ""
 
 cl.localchurch.title = ""
@@ -96,6 +98,7 @@ cl.consecration.greatlitany.finalpetition.name = "" //(καὶ ὄνομα ἁγ
 
 cl.localpatronsaint1.supplication = ""
 cl.localpatronsaint1.dismissal = ""
+cl.localpatronsaint1.commemoration = ""
 cl.localpatronsaint1.greatcompline = ""
 
 cl.localchurch.title = ""
